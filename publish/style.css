@@ -1,2 +1,13 @@
-/* Put your stylesheet here. */
+.enhanced-messaging-floating-ok {
+    position: fixed;
+    bottom: 30px;
+    right: 120px;
+    z-index: 10000;
+}
 
+.enhanced-messaging-floating-cancel {
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    z-index: 10000;
+}

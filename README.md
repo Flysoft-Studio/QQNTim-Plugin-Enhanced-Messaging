@@ -1,4 +1,16 @@
-# QQNTim 模板插件
+# QQNTim 消息增强
+
+## 简介
+
+本插件为 QQNT 提供复读消息、转发语音消息、撤回好友私聊消息等功能。需要安装 [QQNTim 3.0 及以上版本](https://github.com/Flysoft-Studio/QQNTim) 才能使用。
+
+效果图：
+
+![截图](.github/screenshot.png)
+
+## 使用
+
+安装此插件后对着消息右键即可看到添加的功能。
 
 ## 开发
 
